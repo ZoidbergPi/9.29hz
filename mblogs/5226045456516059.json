@@ -32,7 +32,7 @@
         "user": {
             "id": 7478855230,
             "screen_name": "\u5468\u6df1\u5de5\u4f5c\u5ba4",
-            "profile_image_url": "https://tvax3.sinaimg.cn/crop.0.0.512.512.180/008a8vTgly8heihrtkqqjj30e80e83yq.jpg?KID=imgbed,tva&Expires=1761480605&ssig=hvM6D8DsKR",
+            "profile_image_url": "https://tvax3.sinaimg.cn/crop.0.0.512.512.180/008a8vTgly8heihrtkqqjj30e80e83yq.jpg?KID=imgbed,tva&Expires=1761480665&ssig=xWfeyfRBwY",
             "profile_url": "https://m.weibo.cn/u/7478855230?luicode=10000011&lfid=1005051736988591",
             "close_blue_v": false,
             "description": "\u5de5\u4f5c\u4e8b\u5b9c\u8bf7\u8054\u7cfbAlan\uff0c\u90ae\u7bb1\uff1aalan@zhoushenstudio.com",
@@ -62,7 +62,7 @@
                 "gaokao_2024": 1,
                 "hpg_2025": 1
             },
-            "statuses_count": 2490,
+            "statuses_count": 2491,
             "verified": true,
             "verified_type": 7,
             "gender": "m",
@@ -76,12 +76,12 @@
             "like": false,
             "like_me": false,
             "special_follow": false,
-            "user_token": "a0.MTg1ZGEwZWU0OWVhNGQyY4O0aZjpoZG2sB-jVJWAy0hPh3TKwCQHHrhmS4Sige5L"
+            "user_token": "a0.MTg1ZGEwZWU0OWVhNGQyY4O0aZjpoZG2sB-jVJWAy0iqkmV-ctRMF6MDwZUVsfaw"
         },
-        "reposts_count": 0,
-        "comments_count": 1,
+        "reposts_count": 633,
+        "comments_count": 1112,
         "reprint_cmt_count": 0,
-        "attitudes_count": 52,
+        "attitudes_count": 2699,
         "mixed_count": 0,
         "pending_approval_count": 0,
         "isLongText": false,
@@ -93,7 +93,7 @@
         "ad_marked": false,
         "mblogtype": 0,
         "item_category": "status",
-        "rid": "0_0_50_2024110763976284368_0_0_0",
+        "rid": "0_0_50_5243531834316809709_0_0_0",
         "cardid": "star_1605",
         "extern_safe": 0,
         "number_display_strategy": {
